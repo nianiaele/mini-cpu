@@ -1,5 +1,5 @@
 # mini-cpu
-A mini 8-bit cpu on logisim. Built from scratch.
+A mini 8-bits cpu on logisim. Built from scratch.
 
 ## Support instructions
 - 8 bits instructions
