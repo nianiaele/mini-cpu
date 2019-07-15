@@ -45,7 +45,7 @@ A mini 8-bits cpu on logisim. Built from scratch.
 ![Hardwired Control Unit](https://github.com/nianiaele/mini-cpu/blob/master/img/hardwired%20control%20unit.png?raw=true)
 
 ### 8 Bits CPU
-![Hardwired Control Unit](https://github.com/nianiaele/mini-cpu/blob/master/img/8bit%20ALU.png?raw=true)
+![Hardwired Control Unit](https://github.com/nianiaele/mini-cpu/blob/master/img/8BITCPU.png?raw=true)
 
 ## Run
 - Write the binary code of the target program in memory. Start from address 0.
